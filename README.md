@@ -55,7 +55,7 @@ This project implements a medication reminder service that triggers phone calls 
    }
 
 
-6. Testing with Postman
+6. Testing with Thunder Client
 
 ![image](https://github.com/user-attachments/assets/51c4fe50-4652-41c0-87e9-c0751a885056)
 
