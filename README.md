@@ -40,7 +40,7 @@ This project implements a medication reminder service that triggers phone calls 
    PORT=3000
    MONGO_URI=mongodb://localhost:27017/medication
    
-4. Start the Server
+4. Start the Server and run
    ```bash
    node index.js
    
